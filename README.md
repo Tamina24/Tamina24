@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tamina24
-- 👀 I’m interested in learning how to **desgin** on a digital platform. 
+- 👀 I’m interested in learning how to **design** on a digital platform. 
 - 🌱 I’m currently learning how to code and do digital design.
 - 💞️ I’m looking to collaborate on ... _not sure yet!_
 - 📫 How to reach me: Write a letter and send it with **Hedwig**
