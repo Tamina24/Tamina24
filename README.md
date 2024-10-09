@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to **design** on a digital platform. 
 - 🌱 I’m currently learning how to code and do digital design.
 - 💞️ I’m looking to collaborate on ... _not sure yet!_
-- 📫 How to reach me: Write a letter and send it with **Hedwig**
+- 📫 How to reach me: Write a letter and send it using the trusted courier,**Hedwig**.
   
 ![Hedwig](https://github.com/user-attachments/assets/c47f9f5b-5db1-498a-8b20-c6ccd4a8a079)
 This is Hedwig.
